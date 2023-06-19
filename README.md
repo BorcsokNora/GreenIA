@@ -8,7 +8,7 @@ This project is an experiment on how to optimise TensorFlow machine learning.
 The outcomes of the tests are the following:
 - Reducing the number of pixels improved the accuracy (see Test 1)
 - Adjusting Conv2D parameters improved the accuracy (see Test 3)
-- Applying the suggested config of the TensorFlow documentation improved the running time (see Test 4)
+- Applying the suggested config of the TensorFlow documentation improved the running time (see Test 5)
 
 ## Original Model
 
